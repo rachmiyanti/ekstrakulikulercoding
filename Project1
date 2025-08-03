@@ -1,0 +1,22 @@
+<!DOCTYPE html> 
+<html lang="id"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Halaman Contoh</title> 
+</head> 
+<body> 
+  <header><h1>Judul Halaman</h1></header> 
+  <nav><!-- tautan akan ditambah nanti --></nav> 
+  <main> 
+    <section> 
+      <article> 
+        <h2>Selamat Datang</h2> 
+        <p>Ini paragraf perdana.</p> 
+      </article> 
+    </section> 
+    <aside>Sidebar info singkat</aside> 
+  </main> 
+  <footer>© 2025 SMA × AhliWeb.com</footer> 
+</body> 
+</html> 
